@@ -5,15 +5,15 @@ public class Main  {
 		
 		Point p1 = new Point();
 	 	InputScanner ip=new InputScanner();
-	 	System.out.println("Enter x value for point 1 ");
+	 	System.out.println("Enter x value for point 1");
 		p1.x= ip.inputInteger();
-		System.out.println("Enter y value for point 1 ");
+		System.out.println("Enter y value for point 1");
 		p1.y =ip.inputInteger(); 
 		
 		Point p2 = new Point();
-		System.out.println("Enter x value for point 2 ");
+		System.out.println("Enter x value for point 2");
 		p2.x = ip.inputInteger();
-		System.out.println("Enter x value for point 2 ");
+		System.out.println("Enter x value for point 2");
 		p2.y = ip.inputInteger();
 	    ip.scannerClose();
 		
