@@ -21,7 +21,7 @@ public class InputScanner {
 		}
 
        public void scannerClose() {
-		scanner.close();
+		 scanner.close();
 		 }
 }
 
